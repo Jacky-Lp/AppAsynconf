@@ -1,6 +1,4 @@
-ReadMe pour le projet Asynconf
-
-Projet visant à calculer le taux d'emprunt écologique.
+Projet Asynconf visant à calculer le taux d'emprunt écologique.
 
 Bibliothèques utilisées :
     JavaFx (Interface utilisateur)
