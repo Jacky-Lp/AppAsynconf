@@ -9,7 +9,8 @@ Bibliothèques utilisées :
 Installation de JavaFx 20.0.2 :
 1•  Téléchargez JavaFX depuis le lien suivant : https://jdk.java.net/javafx20/.
 2•  Dans votre environnement de développement intégré (IDE), ajoutez la bibliothèque JavaFX.
-3•  Dans les configurations de Run/Debug, ajoutez une application et spécifiez les options VM avec l'option suivante : --module-path "C:/LocApps/javafx-sdk-20.0.2/lib" --add-modules javafx.controls,javafx.fxml
+3•  Dans les configurations de Run/Debug, ajoutez une application et spécifiez les options VM avec l'option suivante :
+    --module-path "C:/LocApps/javafx-sdk-20.0.2/lib" --add-modules javafx.controls,javafx.fxml
     Assurez-vous de remplacer "C:/LocApps/javafx-sdk-20.0.2/lib" par le chemin d'accès réel de votre bibliothèque JavaFX.
 
 Installation de JDBC :
