@@ -1,6 +1,6 @@
 # **AppAsynconf**
 
-Projet réalisé pour le tournoi de l'Asyconf 2023
+Projet réalisé pour le tournoi de l'Asyconf 2023 (30/31 octobre)
 
 Classement : 11/77
 
